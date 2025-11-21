@@ -53,7 +53,10 @@ def reset_ball():
 def main():
     pygame.init()
     WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-    pygame.display.set_caption("placeholder")
+
+    icon = pygame.image.load("Assets/game_icon.png")
+    pygame.display.set_caption("Pong game")
+    pygame.display.set_icon(icon)
 
     Clock = pygame.time.Clock()
     pygame.mixer.init()
