@@ -3,7 +3,7 @@ A simple ping pong game made by me. This project was created to improve my progr
 HOW TO RUN GAME:
 To run this game, you need python and pygame installed
 
-1. First download both "main.py" and the "Assets" folder (For better organization put both folder inside of a root folderJ
+1. First download both "main.py" and the "Assets" folder. For better organization, put both inside a root folder.
 2. Install pygame using 'pip install pygame' on the terminal
 3. Navigate to the folder
 4. Then run the game
